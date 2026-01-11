@@ -26,7 +26,7 @@
 **Objetivo:** Automatizar el control de calidad de microvías láser para sustratos de circuitos integrados.
 - ✅ **Tecnologías:** Python, NumPy, SciPy (Gaussian Fit).
 - ✅ **Logro:** Reducción del tiempo de análisis mediante scripts de metrología automatizada.
-- 🔗 **[Ver Repositorio Completo](https://github.com/TU-USUARIO/laser-vias-metrology-automation)** *(Asegúrate de poner el link real aquí)*
+- 🔗 **[Ver Repositorio Completo](https://github.com/Prado500/laser-vias-metrology-automation)** 
 
 ---
 
