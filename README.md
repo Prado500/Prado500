@@ -1,5 +1,5 @@
 # Hola, soy David De Los Reyes 👋
-### Ingeniero de Sistemas | Backend Developer (Python) | Data Enthusiast
+### Ingeniero de Sistemas | Backend Developer (Python (FastAPI) & Java (Spring Boot)) | Data Enthusiast
 
 ¡Bienvenido a mi portafolio! Soy un ingeniero apasionado por construir arquitecturas backend escalables y transformar datos complejos en soluciones industriales.
 
