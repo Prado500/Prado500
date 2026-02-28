@@ -32,6 +32,6 @@
 
 ### 📫 Contáctame
 <p align="left">
-<a href="https://www.linkedin.com/in/david-alejandro-de-los-reyes-ostos-0b808521a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-David_De_Los_Reyes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="david de los reyes" /></a>
+<a href="https://www.linkedin.com/in/daldeos/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-David_De_Los_Reyes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="david de los reyes" /></a>
 <a href="mailto:daldeosplastic@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
