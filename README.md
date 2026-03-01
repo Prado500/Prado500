@@ -12,11 +12,14 @@
 ### 🛠️ Tech Stack & Herramientas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Backend-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data-Pandas_&_SciPy-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-Azure_Pipelines-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data-Pandas_&_SciPy-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-Azure_Pipelines-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
 
 ---
@@ -26,7 +29,7 @@
 **Objetivo:** Automatizar el control de calidad de microvías láser para sustratos de circuitos integrados.
 - ✅ **Tecnologías:** Python, NumPy, SciPy (Gaussian Fit).
 - ✅ **Logro:** Reducción del tiempo de análisis mediante scripts de metrología automatizada.
-- 🔗 **[Ver Repositorio Completo](https://github.com/Prado500/laser-vias-metrology-automation)** 
+- 🔗 **[Ver Repositorio Completo](https://github.com/Prado500/laser-vias-metrology-automation)** 
 
 ---
 
